@@ -17,7 +17,7 @@ def crear_carpetes_des_de_xml(ruta_xml):
             crear_directori(os.path.join(nom_directori, nom_subdirectori))
 
 def crear_directori(nom_directori):
-    # Comprovar si el directori ja existeix
+    # Comprovar si el directori ja existeix.
     if os.path.exists(nom_directori):
         print(f"El directori '{nom_directori}' ja existeix.")
     else:
