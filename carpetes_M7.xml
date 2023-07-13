@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <estructura xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="carpetes.xsd">
-    <directori nom="directori1">
-    <!-- Aquí pots afegir els subdirectoris o fitxers continguts dins del directori1 -->
+    <directori nom="M7 Serveis de xarxa">
+        <directori nom="M7 Serveis UF1 DNS i DHCP">
+        </directori>
+        <directori nom="M7 Serveis UF2 SMTP i FTP">
+        </directori>
+        <directori nom="M7 Serveis UF3 HTTP i proxy">
+        </directori>
+        <directori nom="M7 Serveis UF4 Sistemes Remots">
+        </directori>   
     </directori>
 </estructura>
