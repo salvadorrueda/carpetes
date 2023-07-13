@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estructura xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="carpetes.xsd">
+    <directori nom="directori1">
+    <!-- Aquí pots afegir els subdirectoris o fitxers continguts dins del directori1 -->
+    </directori>
+</estructura>
